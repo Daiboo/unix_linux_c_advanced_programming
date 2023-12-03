@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.json": "jsonc",
+        "Makefile2": "makefile",
+        "signal.h": "c",
+        "unistd.h": "c"
+    }
+}

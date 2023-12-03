@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.json": "jsonc",
+        "Makefile": "makefile",
+        "stat.h": "c",
+        "features.h": "c",
+        "unistd.h": "c"
+    },
+    "Codegeex.Comment.LanguagePreference": "zh-CN"
+}

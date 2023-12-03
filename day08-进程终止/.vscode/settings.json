@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.json": "jsonc",
+        "Makefile2": "makefile",
+        "stdlib.h": "c",
+        "errno.h": "c",
+        "error_t.h": "c",
+        "errno-base.h": "c"
+    }
+}

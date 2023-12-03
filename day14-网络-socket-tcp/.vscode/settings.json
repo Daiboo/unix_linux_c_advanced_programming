@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "*.json": "jsonc",
+        "Makefile2": "makefile",
+        "socket.h": "c",
+        "un.h": "c",
+        "sockaddr.h": "c",
+        "types.h": "c",
+        "inet.h": "c"
+    },
+
+}
